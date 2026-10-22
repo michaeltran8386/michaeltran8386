@@ -72,6 +72,7 @@
 | [EquiFlow Frontend](https://github.com/MichaelTran1226/Racehorse_Training_Management_System_MT_FE) | Racehorse training and stable management frontend SPA built with React 19, TypeScript, Vite, CSS Modules, and Playwright. 
 | [EquiFlow Backend](https://github.com/MichaelTran1226/Racehorse_Training_Management_System_MT_BE) | Racehorse training and stable management backend RESTful API built with NestJS, TypeScript, Prisma ORM, and PostgreSQL. |
 | [Bing.v3](https://github.com/michaeltran8386/Bing.v3) | Bing Rewards Automation is an automated Microsoft Rewards search engine orchestrator built with Python, Selenium, and Chrome DevTools Protocol (CDP).
+|[CI-CD](https://github.com/michaeltran8386/math-util-2035) | Fundemental and work with GitHub Actions|
 
 
 ## 📊 `~/stats`
