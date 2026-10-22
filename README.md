@@ -67,13 +67,10 @@
 ## 🚀 Featured Projects
 
 | Project | Description |
-|---|---|
-| [MusicWeb](https://github.com/Agile4Life/MusicWeb) | Music web application built with Next.js, React, TypeScript, and Supabase-related services. |
-| [ClassManager](https://github.com/Agile4Life/ClassManager) | Class management application using JavaScript, Node.js, Express, and PostgreSQL. |
-| [ShopForCharity](https://github.com/Agile4Life/ShopForCharity) | Charity shopping web application with a frontend/backend workspace and a Node.js/Express/PostgreSQL stack. |
-| [SWP391](https://github.com/Agile4Life/SWP391) | Team project for a Sport Center Management System, including role-based workflows and application UI. |
-| [PRJ301_Restaurant](https://github.com/Agile4Life/PRJ301_Restaurant) | Restaurant management project developed as part of Java web coursework. |
-| [BKULMS_DESIGN_EX](https://github.com/Agile4Life/BKULMS_DESIGN_EX) | UI/design exploration project. |
+| :--- | :--- |
+| [Racehorse Simulator Web v3](https://github.com/MichaelTran1226/Racehorse_Simulator_Web/tree/v3-tmec-intro) | Racehorse digital twin and IoT telemetry simulation web application built with React, TypeScript, HTML5 Canvas 2D, and Vite. |
+| [EquiFlow Frontend](https://github.com/MichaelTran1226/Racehorse_Training_Management_System_MT_FE) | Racehorse training and stable management frontend SPA built with React 19, TypeScript, Vite, CSS Modules, and Playwright. |
+| [EquiFlow Backend](https://github.com/MichaelTran1226/Racehorse_Training_Management_System_MT_BE) | Racehorse training and stable management backend RESTful API built with NestJS, TypeScript, Prisma ORM, and PostgreSQL. |
 
 ## 📊 `~/stats`
 
@@ -99,8 +96,8 @@
 
 ## 📫 Connect
 
-- GitHub: [@Agile4Life](https://github.com/Agile4Life)
-- LinkedIn: [Phong Chen](https://www.linkedin.com/in/phong-chen-b4283938a/)
+- GitHub: [@michaeltran8386](https://github.com/michaeltran8386)
+- Gmail: [michael](datthanh4177@gmail.com)
 
 ---
 
