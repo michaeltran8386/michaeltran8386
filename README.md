@@ -79,7 +79,7 @@
 
 ## 📫 Connect
 
-- GitHub: [@michaeltran8386](https://github.com/michaeltran8386)
+- GitHub: [michaeltran8386](https://github.com/michaeltran8386)
 - Gmail: [michael](datthanh4177@gmail.com)
 
 ---
