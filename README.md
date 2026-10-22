@@ -1,21 +1,117 @@
+<h1 align="center">Hi, I'm MICHAEL 👋</h1>
 
-## 🌐 Socials:
-[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/https://www.facebook.com/michael.tran.4177) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:datthanh4177@gmail.com ) 
 
-# 💻 Tech Stack:
-![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![Render](https://img.shields.io/badge/Render-%46E3B7.svg?style=for-the-badge&logo=render&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase) ![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=Cloudflare&logoColor=white) ![NestJS](https://img.shields.io/badge/nestjs-%23E0234E.svg?style=for-the-badge&logo=nestjs&logoColor=white) ![Jenkins](https://img.shields.io/badge/jenkins-%232C5263.svg?style=for-the-badge&logo=jenkins&logoColor=white) ![Apache Maven](https://img.shields.io/badge/Apache%20Maven-C71A36?style=for-the-badge&logo=Apache%20Maven&logoColor=white) ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white) ![Playwright](https://img.shields.io/badge/-playwright-%232EAD33?style=for-the-badge&logo=playwright&logoColor=white) ![Godot Engine](https://img.shields.io/badge/GODOT-%23FFFFFF.svg?style=for-the-badge&logo=godot-engine) ![SonarQube](https://img.shields.io/badge/SonarQube-black?style=for-the-badge&logo=sonarqube&logoColor=4E9BCD) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white) ![Swagger](https://img.shields.io/badge/-Swagger-%23Clojure?style=for-the-badge&logo=swagger&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) ![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.shion.dev/api?username=michaeltran8386&theme=gruvbox_light&hide_border=false&include_all_commits=true&count_private=false)<br/>
-![](https://streak-stats.demolab.com/?user=michaeltran8386&theme=gruvbox_light&hide_border=false)<br/>
-![](https://github-readme-stats.shion.dev/api/top-langs/?username=michaeltran8386&theme=gruvbox_light&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
-
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=gruvbox)
-
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=michaeltran8386&limit=5&theme=dark&combine_all_yearly_contributions=true)
+<p align="center">
+  I build web applications as I learn, with a focus on practical features, clean UI, and improving software through testing and iteration.
+</p>
 
 ---
-[![](https://komarev.com/ghpvc/?username=michaeltran8386&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+## 👨‍💻 About Me
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=true&vCenter=true&multiline=true&width=435&lines=Exploring+Full-Stack+Web+Development)](https://git.io/typing-svg)
+
+
+## 🧰 `~/toolbox`
+
+<table>
+  <thead>
+    <tr>
+      <th>Domain</th>
+      <th>Stack &amp; Tooling</th>
+      <th>Tools &amp; Concepts</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>🌐 Frontend</td>
+      <td>
+        <img src="https://skillicons.dev/icons?i=ts,js,react,nextjs,html,css,tailwind" alt="TypeScript, JavaScript, React, Next.js, HTML, CSS, Tailwind CSS" />
+      </td>
+      <td><code>Responsive UI</code> · <code>Component-Based Architecture</code> · <code>React DevTools</code></td>
+    </tr>
+    <tr>
+      <td>⚙️ Backend</td>
+      <td>
+        <img src="https://skillicons.dev/icons?i=java,nodejs,express" alt="Java, Node.js, Express" />
+      </td>
+      <td><code>REST APIs</code> · <code>JWT</code> · <code>Role-Based Access Control (RBAC)</code></td>
+    </tr>
+    <tr>
+      <td>🗄️ Database</td>
+      <td>
+        <img src="https://skillicons.dev/icons?i=postgres,supabase,mysql" alt="PostgreSQL, Supabase, MySQL" />
+      </td>
+      <td><code>SQL</code> · <code>Relational Data Modeling</code></td>
+    </tr>
+    <tr>
+      <td>🧪 Testing</td>
+      <td>
+        <img src="https://skillicons.dev/icons?i=vitest,playwright" alt="Vitest and Playwright" />
+        <img src="https://img.shields.io/badge/k6-Load_Testing-7D64FF?style=flat-square&logo=k6&logoColor=white" alt="k6 load testing" />
+      </td>
+      <td><code>Unit Testing</code> · <code>End-to-End Testing</code> · <code>Load Testing</code></td>
+    </tr>
+    <tr>
+      <td>🚀 Tools &amp; Deployment</td>
+      <td>
+        <img src="https://skillicons.dev/icons?i=git,github,githubactions,vercel,docker" alt="Git, GitHub, GitHub Actions, Vercel, Docker" />
+      </td>
+      <td><code>CI/CD</code> · <code>Pull Requests</code> · <code>Branch Protection</code></td>
+    </tr>
+    <tr>
+      <td>🤖 AI-Assisted Development</td>
+      <td>
+        <img src="https://img.shields.io/badge/OpenAI-Codex-412991?style=flat-square&logo=openai&logoColor=white" alt="OpenAI Codex" />
+        <img src="https://img.shields.io/badge/Google-Gemini-4285F4?style=flat-square&logo=googlegemini&logoColor=white" alt="Google Gemini" />
+      </td>
+      <td><code>AI-Assisted Debugging</code> · <code>Prompt Engineering</code></td>
+    </tr>
+  </tbody>
+</table>
+
+<sub>Icons are loaded from external badge/icon services. This list reflects technologies and tools encountered in my projects and learning, not expert-level proficiency in every item.</sub>
+
+## 🚀 Featured Projects
+
+| Project | Description |
+|---|---|
+| [MusicWeb](https://github.com/Agile4Life/MusicWeb) | Music web application built with Next.js, React, TypeScript, and Supabase-related services. |
+| [ClassManager](https://github.com/Agile4Life/ClassManager) | Class management application using JavaScript, Node.js, Express, and PostgreSQL. |
+| [ShopForCharity](https://github.com/Agile4Life/ShopForCharity) | Charity shopping web application with a frontend/backend workspace and a Node.js/Express/PostgreSQL stack. |
+| [SWP391](https://github.com/Agile4Life/SWP391) | Team project for a Sport Center Management System, including role-based workflows and application UI. |
+| [PRJ301_Restaurant](https://github.com/Agile4Life/PRJ301_Restaurant) | Restaurant management project developed as part of Java web coursework. |
+| [BKULMS_DESIGN_EX](https://github.com/Agile4Life/BKULMS_DESIGN_EX) | UI/design exploration project. |
+
+## 📊 `~/stats`
+
+<p align="center">
+  <img
+    src="https://github-readme-stats.vercel.app/api?username=Agile4Life&show_icons=true&theme=tokyonight&hide_border=true"
+    alt="GitHub statistics"
+    height="180"
+  />
+  <img
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=Agile4Life&layout=compact&theme=tokyonight&hide_border=true"
+    alt="Most used languages"
+    height="180"
+  />
+</p>
+
+<p align="center">
+  <img
+    src="https://streak-stats.demolab.com?user=Agile4Life&theme=tokyonight&hide_border=true"
+    alt="GitHub contribution streak"
+  />
+</p>
+
+## 📫 Connect
+
+- GitHub: [@Agile4Life](https://github.com/Agile4Life)
+- LinkedIn: [Phong Chen](https://www.linkedin.com/in/phong-chen-b4283938a/)
+
+---
+
+<p align="center">
+  <i>Learning by building, improving through feedback, and shipping one step at a time.</i>
+</p>
