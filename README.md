@@ -45,9 +45,6 @@
       <td><code>SQL</code> · <code>Relational Data Modeling</code></td>
     </tr>
     <tr>
-      <td><code>Unit Testing</code> · <code>End-to-End Testing</code> · <code>Load Testing</code></td>
-    </tr>
-    <tr>
       <td>🚀 Tools &amp; Deployment</td>
       <td>
         <img src="https://skillicons.dev/icons?i=git,github,githubactions,vercel,docker" alt="Git, GitHub, GitHub Actions, Vercel, Docker" />
