@@ -69,8 +69,10 @@
 | Project | Description |
 | :--- | :--- |
 | [Racehorse Simulator Web v3](https://github.com/MichaelTran1226/Racehorse_Simulator_Web/tree/v3-tmec-intro) | Racehorse digital twin and IoT telemetry simulation web application built with React, TypeScript, HTML5 Canvas 2D, and Vite. |
-| [EquiFlow Frontend](https://github.com/MichaelTran1226/Racehorse_Training_Management_System_MT_FE) | Racehorse training and stable management frontend SPA built with React 19, TypeScript, Vite, CSS Modules, and Playwright. |
+| [EquiFlow Frontend](https://github.com/MichaelTran1226/Racehorse_Training_Management_System_MT_FE) | Racehorse training and stable management frontend SPA built with React 19, TypeScript, Vite, CSS Modules, and Playwright. 
 | [EquiFlow Backend](https://github.com/MichaelTran1226/Racehorse_Training_Management_System_MT_BE) | Racehorse training and stable management backend RESTful API built with NestJS, TypeScript, Prisma ORM, and PostgreSQL. |
+| [Bing.v3](https://github.com/michaeltran8386/Bing.v3) | Bing Rewards Automation is an automated Microsoft Rewards search engine orchestrator built with Python, Selenium, and Chrome DevTools Protocol (CDP).
+
 
 ## 📊 `~/stats`
 ![](https://github-readme-stats.shion.dev/api?username=michaeltran8386&theme=gruvbox_light&hide_border=false&include_all_commits=true&count_private=false)<br/>
