@@ -45,11 +45,6 @@
       <td><code>SQL</code> · <code>Relational Data Modeling</code></td>
     </tr>
     <tr>
-      <td>🧪 Testing</td>
-      <td>
-        <img src="https://skillicons.dev/icons?i=vitest,playwright" alt="Vitest and Playwright" />
-        <img src="https://img.shields.io/badge/k6-Load_Testing-7D64FF?style=flat-square&logo=k6&logoColor=white" alt="k6 load testing" />
-      </td>
       <td><code>Unit Testing</code> · <code>End-to-End Testing</code> · <code>Load Testing</code></td>
     </tr>
     <tr>
